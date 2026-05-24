@@ -21,4 +21,3 @@ I use this site to:
 - Practice real IAM scenarios using my Okta Developer tenant
 - Design RBAC and IAM database models
 - Build and document IAM workflows (SSO, MFA, JML, SCIM)
-- Share what I’m learning with recruiters and hiring managers

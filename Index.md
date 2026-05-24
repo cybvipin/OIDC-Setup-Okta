@@ -1,4 +1,4 @@
-# Vipin – Identity & Access Management Lab
+# Identity & Access Management Lab
 
 Welcome to my IAM lab and learning space.  
 Here I document real hands-on work with Okta, Azure Entra ID, Active Directory, RBAC, and IAM workflows.

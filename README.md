@@ -1,6 +1,6 @@
 # Okta OIDC Project – End‑to‑End Documentation
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates how to configure, test, and troubleshoot an **OpenID Connect (OIDC)** application in **Okta**.  
 It includes:
 
@@ -17,7 +17,7 @@ This repository is structured to help IAM beginners and professionals understand
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 .
@@ -32,7 +32,7 @@ This repository is structured to help IAM beginners and professionals understand
 
 ---
 
-## 🧩 Architecture Diagram (ASCII)
+## Architecture Diagram (ASCII)
 
 ```
 +-------------+        +------------------+        +------------------+
